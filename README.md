@@ -2,6 +2,10 @@
 
 At eva you can use ready to use bot template and just adjust the bot's messages to your needs.
 
+## Requirements 
+- eva bot 
+- Has eva 3.4 version
+
 ## About bot template 
 Bot Template is a collection of flows provided by eva that can be used to establish a base for building conversations.
 
