@@ -29,6 +29,7 @@ It's super easy! Only 5 steps:
 ![import bt1](https://user-images.githubusercontent.com/80360505/131180457-0a7f111c-af7e-426a-9be6-82655f8ef21b.jpg)
 
 3) Then, give a name to your template:
+
 ![import bt2](https://user-images.githubusercontent.com/80360505/131180529-fbf9ab64-cc4b-489b-ada3-e13cb8fce28a.jpg)
 
 4) Finally, import the zip file:
