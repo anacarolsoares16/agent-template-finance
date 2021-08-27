@@ -38,6 +38,7 @@ It's super easy! Only 5 steps:
 
 
 5) Then, ready! Your bot template will be in the bot repository.
+
 ![import bt4](https://user-images.githubusercontent.com/80360505/131180623-d1ead3d5-0f2c-4925-8d91-d0799e2c617f.jpg)
 
 
