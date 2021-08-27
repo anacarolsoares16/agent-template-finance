@@ -6,6 +6,10 @@
 ## Manual
 - Click on this [link](https://eva-bot.gitbook.io/bot-template-guide/) to read the bot template manual.
 
+
+
+<br>
+
 > Copyright ©
 2021, All rights reserved.
 eva by everis product and its components are the property of everis.
