@@ -1,4 +1,4 @@
-# Bot template finance (ES)
+# Bot template finance v1 (ES)
 
 At eva you can use ready to use bot template and just adjust the bot's messages to your needs.
 
@@ -14,7 +14,8 @@ The solution is focused on the finance area, but there are many flows that can b
 In Bot Template Finance, you will find 38 flows that can be used at the 10 most popular use cases, as shown in the picture below:
 
 
-![use cases](https://user-images.githubusercontent.com/80360505/131180098-1621a005-191c-4751-89e1-061062e92122.jpg)
+![use cases]![Bot Template Slide Use Cases](https://user-images.githubusercontent.com/84421202/136446540-039be7c2-acb7-4ea5-a2c4-5c6a56966b8f.jpg)
+
 
 
 This feature include Intents, Entities and also all the other eva cells, such as Answer, Service, Jump, Input, Code and Rule.
