@@ -1,4 +1,4 @@
-# Bot template finance
+# Bot template finance (ES)
 
 At eva you can use ready to use bot template and just adjust the bot's messages to your needs.
 
