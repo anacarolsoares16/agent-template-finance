@@ -13,9 +13,7 @@ The solution is focused on the finance area, but there are many flows that can b
 
 In Bot Template Finance, you will find 38 flows that can be used at the 10 most popular use cases, as shown in the picture below:
 
-
-![use cases]![Bot Template Slide Use Cases](https://user-images.githubusercontent.com/84421202/136446540-039be7c2-acb7-4ea5-a2c4-5c6a56966b8f.jpg)
-
+![Slide1](https://user-images.githubusercontent.com/84421202/138301348-1108a809-85e3-4576-9311-18c0806c41e6.PNG)
 
 
 This feature include Intents, Entities and also all the other eva cells, such as Answer, Service, Jump, Input, Code and Rule.
