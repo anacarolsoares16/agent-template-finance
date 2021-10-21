@@ -28,7 +28,7 @@ The purpose is to help you to build your own bot, to build your own flows, by of
 
 ## How to import a bot template
 It's super easy! Only 5 steps:
-1) First, download Bot Template zip file that is at this link HERE
+1) 1) First, download Bot Template zip file that is at this link  [HERE](https://github.com/eva-library/bot-template-finance/blob/main/Bot_Template_Finance_Official_v1_ES.zip)
 2) Then, go to cockpit, press the button "Create a bot", and choose "Import" (as shown in the image below)
 
 ![import bt1](https://user-images.githubusercontent.com/80360505/131180457-0a7f111c-af7e-426a-9be6-82655f8ef21b.jpg)
