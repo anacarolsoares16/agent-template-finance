@@ -1,4 +1,4 @@
-# Bot template finance v 1.0 (ES)
+# Agent template finance v 1.0 (ES)
 
 At eva you can use ready to use bot template and just adjust the bot's messages to your needs.
 
@@ -6,21 +6,20 @@ At eva you can use ready to use bot template and just adjust the bot's messages 
 - eva bot 
 - Has eva 3.4 version
 
-## About bot template 
-Bot Template is a collection of flows provided by eva that can be used to establish a base for building conversations.
+## About Agent template 
+Agent Template is a collection of flows provided by eva that can be used to establish a base for building conversations.
 
 The solution is focused on the finance area, but there are many flows that can be leveraged as a reference, customized or even used for any trade or sector (such as login and chit-chats).
 
 In Bot Template Finance, you will find 38 flows that can be used at the 10 most popular use cases, as shown in the picture below:
 
-![Slide1](https://user-images.githubusercontent.com/84421202/138301348-1108a809-85e3-4576-9311-18c0806c41e6.PNG)
-
+![Slide1](https://user-images.githubusercontent.com/84421202/142050966-d5560679-4cfd-4dd6-ac11-e1d33d584d93.PNG)
 
 This feature include Intents, Entities and also all the other eva cells, such as Answer, Service, Jump, Input, Code and Rule.
 The purpose is to help you to build your own bot, to build your own flows, by offering a ready-made basis with the best UX writing practices in the market, as well as the best practices for using eva.
 
 ### Important
-- Bot Template is a template. That is, you can use as a good foundation, but you must customize the informations for your own business. It means that you should create your own webservice, your own page links, etc... Reach our documentation HERE to know more about how to use eva.
+- Agent Template is a template. That is, you can use as a good foundation, but you must customize the informations for your own business. It means that you should create your own webservice, your own page links, etc... Reach our documentation HERE to know more about how to use eva.
 - The language is Spanish, but you can translate and edit information as you wish.
 - This feature is only available for eva versions starting with 3.4
 
