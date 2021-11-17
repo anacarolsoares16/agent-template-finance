@@ -1,9 +1,9 @@
 # Agent template finance v 1.0 (ES)
 
-At eva you can use ready to use bot template and just adjust the bot's messages to your needs.
+At eva you can use ready to use agent template and just adjust the bot's messages to your needs.
 
 ## Requirements 
-- eva bot 
+- eva
 - Has eva 3.4 version
 
 ## About Agent template 
@@ -11,12 +11,12 @@ Agent Template is a collection of flows provided by eva that can be used to esta
 
 The solution is focused on the finance area, but there are many flows that can be leveraged as a reference, customized or even used for any trade or sector (such as login and chit-chats).
 
-In Bot Template Finance, you will find 38 flows that can be used at the 10 most popular use cases, as shown in the picture below:
+In Agent Template Finance, you will find 38 flows that can be used at the 10 most popular use cases, as shown in the picture below:
 
 ![Slide1](https://user-images.githubusercontent.com/84421202/142050966-d5560679-4cfd-4dd6-ac11-e1d33d584d93.PNG)
 
 This feature include Intents, Entities and also all the other eva cells, such as Answer, Service, Jump, Input, Code and Rule.
-The purpose is to help you to build your own bot, to build your own flows, by offering a ready-made basis with the best UX writing practices in the market, as well as the best practices for using eva.
+The purpose is to help you to build your own virtual assistant, to build your own flows, by offering a ready-made basis with the best UX writing practices in the market, as well as the best practices for using eva.
 
 ### Important
 - Agent Template is a template. That is, you can use as a good foundation, but you must customize the informations for your own business. It means that you should create your own webservice, your own page links, etc... Reach our documentation HERE to know more about how to use eva.
@@ -25,7 +25,8 @@ The purpose is to help you to build your own bot, to build your own flows, by of
 
 ## How to import a bot template
 It's super easy! Only 5 steps:
-1) First, download Bot Template zip file that is at this link  [HERE](https://github.com/eva-library/bot-template-finance/blob/main/Bot_Template_Finance_Official_v1_ES.zip)
+1) First, download Agent Template zip file that is at this link  [HERE] [Agent Template Finanzas.zip](https://github.com/eva-library/bot-template-finance/files/7554719/Agent.Template.Finanzas.zip)
+
 2) Then, go to cockpit, press the button "Create a bot", and choose "Import" (as shown in the image below)
 
 ![import bt1](https://user-images.githubusercontent.com/80360505/131180457-0a7f111c-af7e-426a-9be6-82655f8ef21b.jpg)
