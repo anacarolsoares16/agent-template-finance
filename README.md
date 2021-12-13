@@ -1,4 +1,4 @@
-# Agent template finance v 1.0 (ES AND PT)
+# Agent template finance v 1.0 (ES, ENG AND PT)
 
 At eva you can use ready to use agent template and just adjust the bot's messages to your needs.
 
@@ -27,6 +27,7 @@ The purpose is to help you to build your own virtual assistant, to build your ow
 It's super easy! Only 5 steps:
 1) First, download Agent Template zip file 
 To Spanish, click [HERE] [Agent Template Finanzas.zip](https://github.com/eva-library/bot-template-finance/files/7554719/Agent.Template.Finanzas.zip)
+To English, click [HERE] [Agent Template Finance (ENG).zip](https://github.com/eva-library/agent-template-finance/files/7706332/Agent.Template.Finance.ENG.zip)
 To Portuguese, click [HERE] [Agent.Template.Finanças(PT).zip](https://github.com/eva-library/agent-template-finance/files/7635985/Agent.Template.Financas.PT.zip)
 
 2) Then, go to cockpit, press the button "Create a bot", and choose "Import" (as shown in the image below)
